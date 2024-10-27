@@ -10,7 +10,7 @@
  int F = 11 ;
  int G = 12;
  int DP =13;
- int delayd= 5;
+ int delayadsad= 5;
 
 void setup() {
 
